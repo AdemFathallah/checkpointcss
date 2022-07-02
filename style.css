@@ -1,0 +1,27 @@
+h1,h4{
+    color: rgb(187, 76, 76);
+}
+body{
+    background-color: black;
+}
+h2{
+    color: rgb(163, 49, 49);
+
+}
+span , ul, li, p{
+    color: gray;
+}
+a{
+    
+    display: inline;
+    position: relative;
+    left: 95%;
+    
+    text-decoration: none;
+    vertical-align: 7%;
+}
+a{
+    font-family: 'Roboto', sans-serif; 
+}
+
+
